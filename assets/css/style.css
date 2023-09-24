@@ -48,9 +48,9 @@ img {height: 400px;}
 /*/////////////////////////////////////////////////////////////////////////*/
 /*/////////////////////////////////////////////////////////////////////////*/
 /*/////////////////////////////////////////////////////////////////////////*/
-@media (max-width : 414px) and (orientation: portrait) {
+@media (max-width : 320px) and (orientation: portrait) {
 	body {
-	width: 414px;
+	width: 320px;
 	margin: 0px;
 	background-color: black;
 	color: white;
@@ -61,7 +61,7 @@ img {height: 400px;}
 }
 
 .container {
-	width: 414px;
+	width: 320px;
 	text-align: left;
 	margin-bottom: 0px;
 	float: left;
@@ -73,7 +73,7 @@ h2{
 }
 
 .container2 {
-	width: 414px;
+	width: 320px;
 	text-align: center;
 	margin-left: 0px;
 	margin-top: 100px;
@@ -83,19 +83,19 @@ h2{
 #socials {
 	border-style: solid;
 	border-width: 4px;
-	width: 414px;
+	width: 320px;
 	margin-left: 0px;
 	color: blue;
 }
 
 .container3 {
 	margin-top: 1px;
-	width: 414px;
+	width: 320px;
 	margin-left: 0px;
 }
 
 img {height: 400px;
-width: 414px;}
+width: 320px;}
 
 .footer {
 	text-align: center;
@@ -109,7 +109,7 @@ width: 414px;}
 a:visited {
 	border-style: solid;
 	border-color: blue;
-	width: 414px;
+	width: 320px;
 	border-width: 4px;
 	margin-left: 0px;
 	color: blue;
@@ -118,7 +118,7 @@ a:visited {
 a:active {
 	border-style: solid;
 	border-color: blue;
-	width: 414px;
+	width: 320px;
 	border-width: 4px;
 	margin-left: 0px;
 	color: blue;

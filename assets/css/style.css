@@ -45,6 +45,9 @@ img {height: 400px;}
 	margin-bottom: 0px;
 }
 
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
 @media (max-width : 414px) and (orientation: portrait) {
 	body {
 	width: 414px;
@@ -121,3 +124,86 @@ a:active {
 	color: blue;
 }
 }
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
+@media (max-width : 745px) and (orientation: landscape) {
+	body {
+	width: 745px;
+	margin: 0px;
+	background-color: black;
+	color: white;
+}
+
+.cont {
+	float: left;
+}
+
+.container {
+	width: 745px;
+	text-align: left;
+	margin-bottom: 0px;
+	float: left;
+
+}
+
+h2{
+	margin-bottom: 0px;
+}
+
+.container2 {
+	width: 745px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 100px;
+	float: left;
+}
+
+#socials {
+	border-style: solid;
+	border-width: 4px;
+	width: 745px;
+	margin-left: 0px;
+	color: blue;
+}
+
+.container3 {
+	margin-top: 1px;
+	width: 745px;
+	margin-left: 0px;
+}
+
+img {height: 400px;
+width: 745px;}
+
+.footer {
+	text-align: center;
+}
+
+#footer-text {
+	margin-top: 90px;
+	margin-bottom: 0px;
+}
+
+a:visited {
+	border-style: solid;
+	border-color: blue;
+	width: 745px;
+	border-width: 4px;
+	margin-left: 0px;
+	color: blue;
+}
+
+a:active {
+	border-style: solid;
+	border-color: blue;
+	width: 745px;
+	border-width: 4px;
+	margin-left: 0px;
+	color: blue;
+}
+}
+
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////*/
